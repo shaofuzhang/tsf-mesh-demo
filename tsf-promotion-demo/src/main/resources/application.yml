@@ -1,0 +1,10 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: promotion
+logging:
+  level:
+    root: INFO
+  file:
+    name: /var/log/promotion
